@@ -1,0 +1,1 @@
+{"start":{"connectors":[{"exitPortType":"NextStep","nodeId":"end"}],"name":"start","description":"Start","nodeType":"START"},"end":{"name":"end","description":"End","inputVarMap":{"unassignedTask":"data"},"outputVarMap":{"unassignedTask":"data"},"nodeType":"END"},"workflowNodes":["start","end"]}
